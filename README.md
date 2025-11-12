@@ -11,11 +11,11 @@
 
 ### Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [胶东半岛观察](https://blog.thatcoder.cn/daily/Jiaodong-Peninsula/)
-- [海光 K100 DCU VLLM 推理环境构建](https://blog.thatcoder.cn/ai/hygon-vllm/)
-- [博客多平台负载均衡方案](https://blog.thatcoder.cn/Blog-Load-Balance/)
-- [浅谈RAG](https://blog.thatcoder.cn/ai/RAG/)
-- [Web技术构建桌面应用方案](https://blog.thatcoder.cn/Web-Package/)
+- [关于github-issues当做动态的想法](https://blog.zsx815.top/posts/github-issues-comment/)
+- [Hexo备忘](https://blog.zsx815.top/posts/hexo-beiwang/)
+- [Markdown 强调语法](https://blog.zsx815.top/posts/markdown-qiangdiao/)
+- [Markdown 段落语法](https://blog.zsx815.top/posts/markdown-duanluo/)
+- [Markdown 换行语法](https://blog.zsx815.top/posts/markdown-huanhang/)
 <!-- BLOG-POST-LIST:END -->
 
 <div>&nbsp;</div>
